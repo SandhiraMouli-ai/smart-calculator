@@ -11,12 +11,6 @@ A beginner-friendly project created as part of my 30 Days of GitHub Challenge.
 - Includes a small, understandable implementation.
 - Can be extended with additional features.
 
-## Daily implementation plan (30 minutes)
-1. **5 min:** Read the code and understand the goal.
-2. **15 min:** Implement or type the solution yourself.
-3. **5 min:** Run it and test at least two cases.
-4. **5 min:** Update this README, take a screenshot and push to GitHub.
-
 ## How to run
 Use Python 3 for Python projects:
 ```bash
